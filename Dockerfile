@@ -1,7 +1,7 @@
 #
 # nonoroazoro/rpi-mongo Dockerfile.
 #
-# https://github.com/nonoroazoro/rpi-docker-images
+# https://github.com/nonoroazoro/rpi-mongo
 #
 
 # Pull base image.
