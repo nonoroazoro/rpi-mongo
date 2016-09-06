@@ -18,7 +18,7 @@ This repository contains Dockerfile of [MongoDB](http://www.mongodb.org/) for [R
 
     1. Update the proxy settings for apt-get in `10proxy`.
 
-    2. `docker build -t="nonoroazoro/rpi-mongo" github.com/nonoroazoro/rpi-docker-images#master:rpi-mongo`
+    2. `docker build -t="nonoroazoro/rpi-mongo" github.com/nonoroazoro/rpi-mongo`
 
 ### Usage
 
