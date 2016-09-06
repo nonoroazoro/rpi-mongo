@@ -14,7 +14,7 @@ This repository contains Dockerfile of [MongoDB](http://www.mongodb.org/) for [R
 
     `docker pull nonoroazoro/rpi-mongo`
 
-3. Alternatively, you can build an image from Dockerfile:
+3. Alternatively, you can build an image from Dockerfile (**In you Raspberry Pi**):
 
     1. Update the proxy settings for apt-get in `10proxy`.
 
